@@ -1,0 +1,8 @@
+name: Vinicius Costa Germano | Portfólio
+description: Graphic Designer & Visual Identity
+baseurl: ""
+url: "https://euvinicostag.github.io"
+
+collections:
+  projetos:
+    output: true
